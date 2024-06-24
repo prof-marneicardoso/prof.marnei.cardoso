@@ -7,3 +7,6 @@ Meu propósito é ajudar as pessoas que compartilham do mesmo sonho que eu, que 
 Aqui eu compartilho tudo que aprendo a partir da minha própria jornada e espero que isso possa te ajudar!
 
 Sou Professor e Desenvolvedor há vários anos, Graduado e Pós-Graduado na área de TI e Educação, ensino a desenvolver sites, sistemas para Web, mobile e games. Amo a área de Educação e Tecnologia, Desenvolvimento Web e Desenvolvimento de Games. Sempre busco tornar as aulas mais divertidas e interessantes, com muita prática e explicações simples e objetivas.
+
+## Instagram
+instagram.com/prof.marnei.cardoso
